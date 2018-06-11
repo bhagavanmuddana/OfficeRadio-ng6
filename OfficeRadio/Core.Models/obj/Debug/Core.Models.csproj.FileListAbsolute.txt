@@ -1,0 +1,6 @@
+C:\New folder\source\repos\OfficeRadio\Core.Models\bin\Debug\Core.Models.dll.config
+C:\New folder\source\repos\OfficeRadio\Core.Models\bin\Debug\Core.Models.dll
+C:\New folder\source\repos\OfficeRadio\Core.Models\bin\Debug\Core.Models.pdb
+C:\New folder\source\repos\OfficeRadio\Core.Models\obj\Debug\Core.Models.csproj.CoreCompileInputs.cache
+C:\New folder\source\repos\OfficeRadio\Core.Models\obj\Debug\Core.Models.dll
+C:\New folder\source\repos\OfficeRadio\Core.Models\obj\Debug\Core.Models.pdb

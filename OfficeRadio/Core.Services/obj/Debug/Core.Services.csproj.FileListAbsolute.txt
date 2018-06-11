@@ -1,0 +1,12 @@
+C:\New folder\source\repos\OfficeRadio\Core.Services\bin\Debug\Core.Services.dll.config
+C:\New folder\source\repos\OfficeRadio\Core.Services\bin\Debug\Core.Services.dll
+C:\New folder\source\repos\OfficeRadio\Core.Services\bin\Debug\Core.Services.pdb
+C:\New folder\source\repos\OfficeRadio\Core.Services\bin\Debug\Core.Models.dll
+C:\New folder\source\repos\OfficeRadio\Core.Services\bin\Debug\Newtonsoft.Json.dll
+C:\New folder\source\repos\OfficeRadio\Core.Services\bin\Debug\Core.Models.pdb
+C:\New folder\source\repos\OfficeRadio\Core.Services\bin\Debug\Core.Models.dll.config
+C:\New folder\source\repos\OfficeRadio\Core.Services\bin\Debug\Newtonsoft.Json.xml
+C:\New folder\source\repos\OfficeRadio\Core.Services\obj\Debug\Core.Services.csprojResolveAssemblyReference.cache
+C:\New folder\source\repos\OfficeRadio\Core.Services\obj\Debug\Core.Services.csproj.CoreCompileInputs.cache
+C:\New folder\source\repos\OfficeRadio\Core.Services\obj\Debug\Core.Services.dll
+C:\New folder\source\repos\OfficeRadio\Core.Services\obj\Debug\Core.Services.pdb
